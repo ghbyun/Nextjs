@@ -2,6 +2,8 @@ import Image from 'next/image'
 import styles from './page.module.css'
 
 
+// https://nextjs.org/docs/messages/experimental-app-dir-config
+
 export default function Home() {
   let name= "byun";
   let link ="http://google.com";
